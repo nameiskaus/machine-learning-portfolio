@@ -1,0 +1,20 @@
+
+
+# Ignore big data files
+*.zip
+*.pth
+*.joblib
+
+
+# Ignore OS and Python cache files
+__pycache__/
+.DS_Store
+
+# Ignore presentations and office docs
+*.pptx
+*.ppt
+*.docx
+
+# VSCode & system files
+.vscode/
+Thumbs.db

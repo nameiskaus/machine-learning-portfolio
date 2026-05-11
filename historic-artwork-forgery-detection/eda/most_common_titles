@@ -1,0 +1,44 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# 1. Load your dataset
+df = pd.read_csv(r'data/mapped.csv')
+
+# 2. Define generic titles (edit/add more if needed)
+generic_titles = [
+    'exterior view', 
+    'interior view', 
+    'self-portrait', 
+    'still-life', 
+    'virgin and child',
+    'general view', 
+    'portrait of a man', 
+    'annunciation', 
+    'crucifixion', 
+    'madonna and child'
+]
+
+# 3. Normalize titles to lowercase for matching
+df['title_lower'] = df['title'].astype(str).str.lower()
+
+# 4. Count occurrences for each generic title
+generic_counts = df['title_lower'].value_counts().reindex(generic_titles, fill_value=0)
+
+# 5. Plot the distribution of generic titles
+plt.figure(figsize=(10, 5))
+generic_counts.plot(kind='bar', color='orange')
+plt.title('Frequency of Generic Artwork Titles')
+plt.xlabel('Title')
+plt.ylabel('Number of Artworks')
+plt.tight_layout()
+plt.show()
+
+# 6. Plot the top 10 most common artwork titles overall
+top_10_counts = df['title_lower'].value_counts().head(10)
+plt.figure(figsize=(10, 5))
+top_10_counts.plot(kind='bar', color='purple')
+plt.title('Top 10 Most Common Artwork Titles')
+plt.xlabel('Title')
+plt.ylabel('Number of Artworks')
+plt.tight_layout()
+plt.show()
