@@ -1,0 +1,28 @@
+# Ignore virtual environment
+finenv/
+ENV/
+env/
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Jupyter/IPython notebooks cache (if any)
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore .env files (if you store API keys locally)
+.env
+.env.*
+
+# Ignore compiled files
+*.pyo

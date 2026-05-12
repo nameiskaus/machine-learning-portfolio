@@ -1,0 +1,99 @@
+Key Takeaways
+Understanding different stock categories can help investors make more informed investment decisions and reduce portfolio risk.
+Preferred stock gives holders regular dividend payments before dividends are issued to common shareholders but doesn't provide voting rights.
+Income stocks provide regular income by distributing a company's profits, or excess cash, through dividends that are higher than the market average.
+Blue-chip stocks are shares of well-established companies with a large market capitalization.
+ESG stocks emphasize environmental protection, social justice, and ethical management practices.
+Common and Preferred Stock
+Common stock—sometimes referred to as ordinary shares—represents partial ownership in a company. This stock class entitles investors to generated profits, usually paid in dividends. Common stockholders elect a company's board of directors and vote on corporate policies. Holders of this stock class have rights to a company's assets in a liquidation event, but only after preferred stock shareholders and other debt holders have been paid. Company founders and employees typically receive common stock.
+
+On the other hand, preferred stock, or preference shares, entitles the holder to regular dividend payments before dividends are issued to common shareholders. As mentioned above, preferred shareholders also get repaid first if the company dissolves or enters bankruptcy. Preferred stock doesn't carry voting rights and suits investors seeking reliable passive income.
+
+
+Many companies offer both common and preferred stock. For example, Alphabet Inc.—Google's parent company—lists Alphabet Inc. (GOOGL), its Class A common stock, and Alphabet Inc. (GOOG), its preferred Class C stock.
+
+
+Growth Stocks vs. Value Stocks
+As their name suggests, growth stocks refer to equities expected to grow at a faster rate compared to the broader market.
+
+ Generally, growth stocks tend to outperform during times of economic expansion and when interest rates are low. For instance, technology stocks have significantly outperformed in recent years, fueled by a robust economy and access to cheap funding. Investors can monitor growth stocks by following the themed exchange-traded fund (ETF), the SPDR Portfolio S&P 500 Growth ETF (SPYG).
+
+
+Conversely, value stocks trade at a discount to what a company's performance might otherwise indicate, typically having more attractive valuations than the broader market.
+
+ Value stocks—such as financial, healthcare, and energy names—tend to outperform during periods of economic recovery, as they usually generate reliable income streams. Investors can track value stocks by adding the SPDR Portfolio S&P 500 Value ETF (SPYV) to their watchlist.
+
+
+Tip
+Read about Investopedia's 10 Rules of Investing by picking up a copy of our special issue print edition.
+
+Income Stocks
+Income stocks are equities that provide regular income by distributing a company's profits, or excess cash, through dividends that are higher than the market average. Typically, these stocks—think utilities—have lower volatility and less capital appreciation than growth stocks, making them suitable for risk-averse investors who seek a regular income stream.
+
+ Investors can access income stocks through the Amplify High Income ETF (YYY).
+
+
+Blue-Chip Stocks
+Blue-chip stocks are well-established companies that have a large market capitalization. They have a long successful track record of generating dependable earnings and leading within their industry or sector.
+
+ Conservative investors may top-weight their portfolio with blue-chip stocks, particularly in periods of uncertainty. Several examples of blue-chip stocks include computing giant Microsoft Corporation (MSFT), fast-food leader McDonald's Corporation (MCD), and energy bellwether Exxon Mobil Corporation (XOM).
+
+Cyclical and Non-Cyclical Stocks
+Cyclical stocks are directly affected by the economy's performance and typically follow economic cycles of expansion, peak, recession, and recovery. They usually display more volatility and outperform other stocks in times of economic strength when consumers have more discretionary income.
+
+ Examples of cyclical stocks include iPhone maker Apple Inc. (AAPL) and sports gear giant Nike, Inc. (NKE). Investors can add cyclical stocks to their portfolios by purchasing the Vanguard Consumer Discretionary ETF (VCR).
+
+
+On the other hand, non-cyclical stocks operate in "recession-proof" industries that tend to perform reasonably well irrespective of the economy. Non-cyclical stocks usually outperform cyclical stocks in an economic slowdown or downturn as demand for core products and services remains relatively consistent.
+
+ The Vanguard Consumer Staples ETF (VDC) provides exposure to large-cap defensive stocks like personal care giant The Procter & Gamble Company (PG), as well as beverage makers PepsiCo, Inc. (PEP) and The Coca-Cola Company (KO).
+
+
+Defensive Stocks
+Defensive stocks generally provide consistent returns in most economic conditions and stock market environments. These companies typically sell essential products and services, such as consumer staples, healthcare, and utilities. Defensive stocks may help protect a portfolio from steep losses during a sell-off or bear market. A defensive stock may also be a value, income, non-cyclical, or blue-chip stock. Telecommunications giant Verizon (VZ) and healthcare multinational Cardinal Health, Inc. (CAH) are among the defensive stocks included in the core holdings of the Invesco Defensive Equity ETF (DEF).
+
+
+Important
+Defensive stocks are less likely to face bankruptcy because of their ability to generate consistent returns during periods of economic weakness.
+
+IPO Stock
+When a company goes public, it issues stock through an initial public offering (IPO). IPO stock typically gets allocated at a discount before the company's stock lists on the stock exchange. It may also have a vesting schedule to prevent investors from selling all of their shares when the stock commences trading.
+
+ Market commentators also use the term "IPO stocks" when referring to recently listed stocks. Investors can monitor for upcoming IPOs through the Nasdaq website.
+
+Penny Stocks
+A penny stock is equity valued at less than $5 and is considered highly speculative.
+
+ Although some penny stocks trade on major exchanges, many trade through the OTCQB—a middle-tier over-the-counter (OTC) market for U.S. stocks operated by OTC Markets Group.
+
+ Investors should consider using limit orders when placing buy and sell orders in penny stock, as they often have a large spread between the bid and ask price.
+
+Penny stocks shot to prominence in popular culture after the release of The Wolf of Wall Street, a movie about a former stockbroker who operated a penny stock scam. Investors who want to take a bet on penny stocks should look at the iShares Micro-Cap ETF (IWC).
+
+
+ESG Stocks
+Environmental, social, and corporate governance (ESG) stocks emphasize environmental protection, social justice, and ethical management practices.
+
+ For instance, an ESG stock may be a company that agrees to reduce its carbon emissions at a greater rate than national and industry targets or one that manufactures equipment for renewable energy infrastructure.
+
+ESG stocks have gained popularity with millennials in recent years—a socially conscious generation who are more likely to invest in things they believe and support. Investors can access ESG stocks by adding the Vanguard ESG U.S. Stock ETF (ESGV) to their portfolio.
+
+
+What Is the Main Difference Between Common Stock and Preferred Stock?
+Preferred stock gives holders priority over a company's income but does not provide voting rights like common stock.
+
+
+What Type of Investor Do Income Stocks Suit?
+Income stocks suit risk-averse investors who seek regular income through dividend payments.
+
+
+What's a Key Characteristic of Defensive Stocks?
+Defensive stocks generally provide consistent returns in most economic conditions and stock market environments.
+
+
+Where Can I Buy Speculative Penny Stocks?
+Investors can buy speculative penny stocks through the OTCQB⁠—a middle-tier over-the-counter (OTC) market for U.S. stocks operated by OTC Markets Group.
+
+
+The Bottom Line
+Understanding the key differences between stock categories helps investors make better-informed investment decisions and manage risk within their portfolios. As well as buying different types of stocks directly, investors can gain cost-effective exposure to themed stock types through ETFs
